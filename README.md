@@ -7,7 +7,8 @@ na mesma party.
 
 - [Windows](https://github.com/mkawer/sanctuary-of-elements-releases/releases/latest/download/Sanctuary-Launcher-Windows.zip)
 - [macOS — Intel e Apple Silicon](https://github.com/mkawer/sanctuary-of-elements-releases/releases/latest/download/Sanctuary-Launcher-macOS.zip)
-- [Jogo completo, versões e novidades](https://github.com/mkawer/sanctuary-of-elements-releases/releases/latest)
+
+[Página oficial de downloads — compartilhe este link](https://sanctuary-of-elements-wiki.kawfe.chatgpt.site/#/downloads)
 
 Extraia o ZIP. No Windows, abra **Launcher.exe** e mantenha **Launcher.pck** ao
 lado dele. No Mac, arraste **Sanctuary Launcher.app** para Aplicativos e abra.
