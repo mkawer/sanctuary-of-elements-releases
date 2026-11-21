@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "product": "sanctuary-launcher",
+  "version": "1.2.0",
+  "launcher_min": 1,
+  "platforms": {
+    "Windows": {
+      "url": "https://github.com/mkawer/sanctuary-of-elements-releases/releases/download/launcher-v1.2.0/Sanctuary-Launcher-Windows.zip",
+      "sha256": "93b995e33cedefef2d675f337349fffe56a0f7e488fe068128cd4669351989f2",
+      "size": 88674622,
+      "executable": "Sanctuary-Launcher/Launcher.exe",
+      "pack": "Sanctuary-Launcher/Launcher.pck"
+    },
+    "macOS": {
+      "url": "https://github.com/mkawer/sanctuary-of-elements-releases/releases/download/launcher-v1.2.0/Sanctuary-Launcher-macOS.zip",
+      "sha256": "e72df69e666cc740b38b7901f21f903d3f83214d00d6735ddcbaa8e00f1ac534",
+      "size": 61509211,
+      "executable": "Sanctuary Launcher.app/Contents/MacOS/Sanctuary Launcher",
+      "pack": "Sanctuary Launcher.app/Contents/Resources/Sanctuary Launcher.pck"
+    }
+  }
+}
